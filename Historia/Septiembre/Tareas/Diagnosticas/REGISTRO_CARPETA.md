@@ -2,8 +2,8 @@
 
 > **Ubicación:** `Historia/Septiembre/Tareas/Diagnosticas`  
 > **Ruta Conceptual:** `Historia > Septiembre > Tareas > Diagnosticas`  
-> **Última Actualización:** `2026-09-08 01:10:33`  
-> **Documentos Vigentes:** `1`  
+> **Última Actualización:** `2026-09-08 01:27:47`  
+> **Documentos Vigentes:** `2`  
 > **Índice General:** [Volver al Master Ledger](../../../../RESUMEN_ARCHIVOS_2BGU.md)  
 
 Esta nota refleja el **estado real** de los archivos presentes en esta carpeta.
@@ -25,7 +25,8 @@ Esta nota refleja el **estado real** de los archivos presentes en esta carpeta.
 
 | Archivo Modificado (SFMS) | Nombre Original | Creación | Última Modificación | Ingesta (Exacta) | Semana | Versión | Tamaño | SHA-256 |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| `Historia_Week2_September_09_08_2026_Historia-Week1-September-09-07-2026_Cesar_Abarca_Rodriguez.pdf` | `Historia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf` | 2026-09-07 21:11:18 | 2026-09-07 22:43:03 | **2026-09-08 01:10:31** | Semana 2 | `Original` | 165.0 KB | `9ff56ea485...` |
+| `Historia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf` | `Historia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf` | 2026-09-07 21:11:18 | 2026-09-07 21:09:08 | **2026-09-07 21:32:56** | Semana 1 | `Original` | 162.8 KB | `7a84e7110b...` |
+| `Historia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf` | `EVALUACIÓN_DIAGNÓSTICA HISTORIA 07-09-2026_C.A.R.pdf` | 2026-09-07 21:11:18 | 2026-09-07 21:09:08 | **2026-09-07 21:11:19** | Semana 1 | `Original` | 162.8 KB | `7a84e7110b...` |
 
 ---
 

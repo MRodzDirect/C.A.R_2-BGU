@@ -2,7 +2,7 @@
 
 > **Ubicación:** `Filosofia/Septiembre/Tareas/Diagnosticas`  
 > **Ruta Conceptual:** `Filosofia > Septiembre > Tareas > Diagnosticas`  
-> **Última Actualización:** `2026-09-08 01:10:33`  
+> **Última Actualización:** `2026-09-08 01:27:47`  
 > **Documentos Vigentes:** `1`  
 > **Índice General:** [Volver al Master Ledger](../../../../RESUMEN_ARCHIVOS_2BGU.md)  
 
@@ -25,7 +25,7 @@ Esta nota refleja el **estado real** de los archivos presentes en esta carpeta.
 
 | Archivo Modificado (SFMS) | Nombre Original | Creación | Última Modificación | Ingesta (Exacta) | Semana | Versión | Tamaño | SHA-256 |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| `Filosofia_Week2_September_09_08_2026_Filosofia-Week1-September-09-07-2026_Cesar_Abarca_Rodriguez.pdf` | `Filosofia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf` | 2026-09-07 22:02:44 | 2026-09-07 22:46:43 | **2026-09-08 01:10:31** | Semana 2 | `Original` | 435.5 KB | `04b8170249...` |
+| `Filosofia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf` | `DIAGNÓSTICO FILOSOFÍA 2DO BGU.pdf` | 2026-09-07 22:02:44 | 2026-09-07 22:02:19 | **2026-09-07 22:02:45** | Semana 1 | `Original` | 422.5 KB | `c13e273934...` |
 
 ---
 
