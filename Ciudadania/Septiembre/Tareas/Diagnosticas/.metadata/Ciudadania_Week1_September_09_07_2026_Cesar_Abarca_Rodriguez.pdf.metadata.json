@@ -1,0 +1,60 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "Ciudadania > Septiembre > Tareas > Diagnosticas",
+      "category": "Tareas",
+      "hierarchy": [
+        "Ciudadania",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "modality": null,
+      "month": "Septiembre",
+      "relative_dir": "Ciudadania/Septiembre/Tareas/Diagnosticas",
+      "subcategory": "Diagnosticas",
+      "subject": "Ciudadania",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "Bachillerato",
+        "2-BGU",
+        "Academico",
+        "Ciudadania",
+        "Week1",
+        "September",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "Bachillerato",
+      "2-BGU",
+      "Academico",
+      "Ciudadania",
+      "Week1",
+      "September",
+      "Septiembre",
+      "Tareas",
+      "Diagnosticas"
+    ],
+    "version_tag": "v1.0"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\Ciudadania\\Septiembre\\Tareas\\Diagnosticas\\Ciudadania_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "final_filename": "Ciudadania_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "original_filename": "EVALUCION DIAG. ED. CIUDADANÍA 2BGU.pdf",
+    "relative_dir": "Ciudadania/Septiembre/Tareas/Diagnosticas",
+    "relative_path": "Ciudadania/Septiembre/Tareas/Diagnosticas/Ciudadania_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "sha256": "eb76fbe2707b92ca4562644fc397b594e9cba72d13714249768359552e6df960",
+    "size_bytes": 375193
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-07 20:36:58",
+    "file_modified": "2026-09-07 20:44:31",
+    "ingested_at": "2026-09-07 21:48:09"
+  }
+}

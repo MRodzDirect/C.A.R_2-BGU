@@ -1,0 +1,53 @@
+{
+  "classification": {
+    "context": {
+      "category": "Tareas",
+      "hierarchy": [
+        "Biologia",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "month": "September",
+      "subcategory": "Diagnosticas",
+      "subject": "Biologia",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "Bachillerato",
+        "2-BGU",
+        "Academico",
+        "Biologia",
+        "Week1",
+        "September",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "Bachillerato",
+      "2-BGU",
+      "Academico",
+      "Biologia",
+      "Week1",
+      "September",
+      "Tareas",
+      "Diagnosticas"
+    ],
+    "version_tag": "v1.0"
+  },
+  "file": {
+    "final_filename": "Biologia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "original_filename": "EVALUACION DIAGNOSTICA BIOLOGIA 07-09-2026_C.A.R.pdf",
+    "path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\Biologia\\Septiembre\\Tareas\\Diagnosticas\\Biologia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "sha256": "77e925638ea6fb72c881d95dc6434fa6efdc5677645cfc6540e9bd0f111ecee8",
+    "size_bytes": 122449
+  },
+  "schema_version": "1.0",
+  "timestamps": {
+    "file_creation": "2026-09-07 21:11:18",
+    "file_modified": "2026-09-07 21:09:08",
+    "sfms_processed": "2026-09-07 21:11:19"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "Lenguaje > Septiembre > Tareas > Diagnosticas",
+      "category": "Tareas",
+      "hierarchy": [
+        "Lenguaje",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "modality": null,
+      "month": "Septiembre",
+      "relative_dir": "Lenguaje/Septiembre/Tareas/Diagnosticas",
+      "subcategory": "Diagnosticas",
+      "subject": "Lenguaje",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "Bachillerato",
+        "2-BGU",
+        "Academico",
+        "Lenguaje",
+        "Week2",
+        "September",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "Bachillerato",
+      "2-BGU",
+      "Academico",
+      "Lenguaje",
+      "Week2",
+      "September",
+      "Septiembre",
+      "Tareas",
+      "Diagnosticas"
+    ],
+    "version_tag": "Original"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\Lenguaje\\Septiembre\\Tareas\\Diagnosticas\\Lenguaje_Week2_September_09_08_2026_Lenguaje-Week1-September-09-07-2026_Cesar_Abarca_Rodriguez.pdf",
+    "final_filename": "Lenguaje_Week2_September_09_08_2026_Lenguaje-Week1-September-09-07-2026_Cesar_Abarca_Rodriguez.pdf",
+    "original_filename": "Lenguaje_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "relative_dir": "Lenguaje/Septiembre/Tareas/Diagnosticas",
+    "relative_path": "Lenguaje/Septiembre/Tareas/Diagnosticas/Lenguaje_Week2_September_09_08_2026_Lenguaje-Week1-September-09-07-2026_Cesar_Abarca_Rodriguez.pdf",
+    "sha256": "63e79a2e78c339f8fe6a8ac8ea87276ab8624a38b5a4bdc770bd41a8520a3b49",
+    "size_bytes": 869886
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-07 22:06:28",
+    "file_modified": "2026-09-07 22:51:10",
+    "ingested_at": "2026-09-08 01:10:30"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "Cultura Fisica > Septiembre > Tareas > Diagnosticas",
+      "category": "Tareas",
+      "hierarchy": [
+        "Cultura Fisica",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "modality": null,
+      "month": "Septiembre",
+      "relative_dir": "Cultura Fisica/Septiembre/Tareas/Diagnosticas",
+      "subcategory": "Diagnosticas",
+      "subject": "Cultura Fisica",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "Bachillerato",
+        "2-BGU",
+        "Academico",
+        "Cultura Fisica",
+        "Week2",
+        "September",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "Bachillerato",
+      "2-BGU",
+      "Academico",
+      "Cultura Fisica",
+      "Week2",
+      "September",
+      "Septiembre",
+      "Tareas",
+      "Diagnosticas"
+    ],
+    "version_tag": "Original"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\Cultura Fisica\\Septiembre\\Tareas\\Diagnosticas\\Cultura-Fisica_Week2_September_09_08_2026_Cultura-Fisica-Week1-September-09-07-2026_Cesar_Abarca_Rodriguez.pdf",
+    "final_filename": "Cultura-Fisica_Week2_September_09_08_2026_Cultura-Fisica-Week1-September-09-07-2026_Cesar_Abarca_Rodriguez.pdf",
+    "original_filename": "Cultura-Fisica_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "relative_dir": "Cultura Fisica/Septiembre/Tareas/Diagnosticas",
+    "relative_path": "Cultura Fisica/Septiembre/Tareas/Diagnosticas/Cultura-Fisica_Week2_September_09_08_2026_Cultura-Fisica-Week1-September-09-07-2026_Cesar_Abarca_Rodriguez.pdf",
+    "sha256": "8ebb494fbe45f46ea177fbc1fd337ac2f1832c977501ea401040b4ff29b1b76f",
+    "size_bytes": 874129
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-07 22:28:59",
+    "file_modified": "2026-09-07 22:34:19",
+    "ingested_at": "2026-09-08 01:10:31"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "Ingles > Septiembre > Tareas > Diagnosticas",
+      "category": "Tareas",
+      "hierarchy": [
+        "Ingles",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "modality": null,
+      "month": "Septiembre",
+      "relative_dir": "Ingles/Septiembre/Tareas/Diagnosticas",
+      "subcategory": "Diagnosticas",
+      "subject": "Ingles",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "Bachillerato",
+        "2-BGU",
+        "Academico",
+        "Ingles",
+        "Week1",
+        "September",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "Bachillerato",
+      "2-BGU",
+      "Academico",
+      "Ingles",
+      "Week1",
+      "September",
+      "Septiembre",
+      "Tareas",
+      "Diagnosticas"
+    ],
+    "version_tag": "v1.0"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\Ingles\\Septiembre\\Tareas\\Diagnosticas\\Ingles_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "final_filename": "Ingles_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "original_filename": "DIAG 2DOBGU.pdf",
+    "relative_dir": "Ingles/Septiembre/Tareas/Diagnosticas",
+    "relative_path": "Ingles/Septiembre/Tareas/Diagnosticas/Ingles_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "sha256": "8442660ea7706d0c9e6454f353e7d426fe983746c245c78f5e00d8a768b55615",
+    "size_bytes": 795474
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-07 22:20:46",
+    "file_modified": "2026-09-07 22:20:38",
+    "ingested_at": "2026-09-07 22:20:47"
+  }
+}

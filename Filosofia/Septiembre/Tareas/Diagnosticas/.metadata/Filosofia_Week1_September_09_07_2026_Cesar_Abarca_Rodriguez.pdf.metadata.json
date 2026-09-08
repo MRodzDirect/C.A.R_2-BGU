@@ -1,0 +1,60 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "Filosofia > Septiembre > Tareas > Diagnosticas",
+      "category": "Tareas",
+      "hierarchy": [
+        "Filosofia",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "modality": null,
+      "month": "Septiembre",
+      "relative_dir": "Filosofia/Septiembre/Tareas/Diagnosticas",
+      "subcategory": "Diagnosticas",
+      "subject": "Filosofia",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "Bachillerato",
+        "2-BGU",
+        "Academico",
+        "Filosofia",
+        "Week1",
+        "September",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "Bachillerato",
+      "2-BGU",
+      "Academico",
+      "Filosofia",
+      "Week1",
+      "September",
+      "Septiembre",
+      "Tareas",
+      "Diagnosticas"
+    ],
+    "version_tag": "v1.0"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\Filosofia\\Septiembre\\Tareas\\Diagnosticas\\Filosofia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "final_filename": "Filosofia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "original_filename": "DIAGNÓSTICO FILOSOFÍA 2DO BGU.pdf",
+    "relative_dir": "Filosofia/Septiembre/Tareas/Diagnosticas",
+    "relative_path": "Filosofia/Septiembre/Tareas/Diagnosticas/Filosofia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "sha256": "c13e2739346d2ca48bf5812882c5cd2bb260d070bab2bd4a4d8211e03499cff7",
+    "size_bytes": 432627
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-07 22:02:44",
+    "file_modified": "2026-09-07 22:02:19",
+    "ingested_at": "2026-09-07 22:02:45"
+  }
+}

@@ -1,0 +1,19 @@
+# =======================================================
+# Git Ignore - 2-BGU Repositorio Académico (César Abarca)
+# =======================================================
+
+# Archivos de bloqueo temporal de Microsoft Office
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Archivos temporales de Windows y descargas
+Thumbs.db
+Desktop.ini
+*.tmp
+*.crdownload
+*.part
+*.lock
+
+# Notas del sistema operativo
+.DS_Store
