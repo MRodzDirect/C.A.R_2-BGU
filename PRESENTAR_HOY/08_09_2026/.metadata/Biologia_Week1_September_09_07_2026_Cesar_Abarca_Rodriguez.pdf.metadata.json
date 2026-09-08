@@ -1,0 +1,48 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "PRESENTAR_HOY > 08_09_2026",
+      "category": null,
+      "hierarchy": [
+        "PRESENTAR_HOY",
+        "08_09_2026"
+      ],
+      "modality": null,
+      "month": "08_09_2026",
+      "relative_dir": "PRESENTAR_HOY/08_09_2026",
+      "subcategory": null,
+      "subject": "PRESENTAR_HOY",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "PRESENTAR_HOY",
+        "Week1",
+        "September",
+        "08_09_2026"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "PRESENTAR_HOY",
+      "Week1",
+      "September",
+      "08_09_2026"
+    ],
+    "version_tag": "Original"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\PRESENTAR_HOY\\08_09_2026\\Biologia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "final_filename": "Biologia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "original_filename": "Biologia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "relative_dir": "PRESENTAR_HOY/08_09_2026",
+    "relative_path": "PRESENTAR_HOY/08_09_2026/Biologia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf",
+    "sha256": "77e925638ea6fb72c881d95dc6434fa6efdc5677645cfc6540e9bd0f111ecee8",
+    "size_bytes": 122449
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-08 01:10:32",
+    "file_modified": "2026-09-07 21:09:08",
+    "ingested_at": "2026-09-08 02:19:04"
+  }
+}

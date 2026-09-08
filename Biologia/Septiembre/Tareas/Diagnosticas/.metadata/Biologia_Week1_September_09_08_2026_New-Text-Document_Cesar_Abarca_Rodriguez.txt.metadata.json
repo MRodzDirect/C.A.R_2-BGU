@@ -1,0 +1,54 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "Biologia > Septiembre > Tareas > Diagnosticas",
+      "category": "Tareas",
+      "hierarchy": [
+        "Biologia",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "modality": null,
+      "month": "Septiembre",
+      "relative_dir": "Biologia/Septiembre/Tareas/Diagnosticas",
+      "subcategory": "Diagnosticas",
+      "subject": "Biologia",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "Biologia",
+        "Week1",
+        "September",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "Biologia",
+      "Week1",
+      "September",
+      "Septiembre",
+      "Tareas",
+      "Diagnosticas"
+    ],
+    "version_tag": "Original"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\Biologia\\Septiembre\\Tareas\\Diagnosticas\\Biologia_Week1_September_09_08_2026_New-Text-Document_Cesar_Abarca_Rodriguez.txt",
+    "final_filename": "Biologia_Week1_September_09_08_2026_New-Text-Document_Cesar_Abarca_Rodriguez.txt",
+    "original_filename": "New Text Document.txt",
+    "relative_dir": "Biologia/Septiembre/Tareas/Diagnosticas",
+    "relative_path": "Biologia/Septiembre/Tareas/Diagnosticas/Biologia_Week1_September_09_08_2026_New-Text-Document_Cesar_Abarca_Rodriguez.txt",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "size_bytes": 0
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-08 02:19:55",
+    "file_modified": "2026-09-08 02:19:55",
+    "ingested_at": "2026-09-08 02:19:55"
+  }
+}
