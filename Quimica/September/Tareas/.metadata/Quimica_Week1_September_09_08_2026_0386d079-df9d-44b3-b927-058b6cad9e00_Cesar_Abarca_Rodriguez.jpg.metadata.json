@@ -1,0 +1,45 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "Quimica",
+      "category": null,
+      "hierarchy": [
+        "Quimica"
+      ],
+      "modality": null,
+      "month": "September",
+      "relative_dir": "Quimica",
+      "subcategory": null,
+      "subject": "Quimica",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "Quimica",
+        "Week1",
+        "September"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "Quimica",
+      "Week1",
+      "September"
+    ],
+    "version_tag": "Original"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\Quimica\\September\\Tareas\\Quimica_Week1_September_09_08_2026_0386d079-df9d-44b3-b927-058b6cad9e00_Cesar_Abarca_Rodriguez.jpg",
+    "final_filename": "Quimica_Week1_September_09_08_2026_0386d079-df9d-44b3-b927-058b6cad9e00_Cesar_Abarca_Rodriguez.jpg",
+    "original_filename": "0386d079-df9d-44b3-b927-058b6cad9e00.jpg",
+    "relative_dir": "Quimica/September/Tareas",
+    "relative_path": "Quimica/September/Tareas/Quimica_Week1_September_09_08_2026_0386d079-df9d-44b3-b927-058b6cad9e00_Cesar_Abarca_Rodriguez.jpg",
+    "sha256": "e90f67a9b7ca44606000803e9506e03bdc128fd1cd58e9156d8d16e7dad60f4f",
+    "size_bytes": 103732
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-08 15:22:03",
+    "file_modified": "2026-09-08 15:22:03",
+    "ingested_at": "2026-09-08 15:22:03"
+  }
+}

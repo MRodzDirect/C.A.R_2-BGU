@@ -1,0 +1,48 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "PRESENTAR_HOY > 08_09_2026",
+      "category": null,
+      "hierarchy": [
+        "PRESENTAR_HOY",
+        "08_09_2026"
+      ],
+      "modality": null,
+      "month": "08_09_2026",
+      "relative_dir": "PRESENTAR_HOY/08_09_2026",
+      "subcategory": null,
+      "subject": "PRESENTAR_HOY",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "PRESENTAR_HOY",
+        "Week1",
+        "September",
+        "08_09_2026"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "PRESENTAR_HOY",
+      "Week1",
+      "September",
+      "08_09_2026"
+    ],
+    "version_tag": "Original"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\PRESENTAR_HOY\\08_09_2026\\Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png",
+    "final_filename": "Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png",
+    "original_filename": "Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png",
+    "relative_dir": "PRESENTAR_HOY/08_09_2026",
+    "relative_path": "PRESENTAR_HOY/08_09_2026/Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png",
+    "sha256": "0c6f404815855783b86ddd41f80302f7ea30ebc5782e8392d078866d253e824b",
+    "size_bytes": 203684
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-08 15:48:57",
+    "file_modified": "2026-09-08 15:48:03",
+    "ingested_at": "2026-09-08 15:48:58"
+  }
+}

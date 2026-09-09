@@ -1,0 +1,54 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "Matematicas > Septiembre > Tareas > Diagnosticas",
+      "category": "Tareas",
+      "hierarchy": [
+        "Matematicas",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "modality": null,
+      "month": "Septiembre",
+      "relative_dir": "Matematicas/Septiembre/Tareas/Diagnosticas",
+      "subcategory": "Diagnosticas",
+      "subject": "Matematicas",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "Matematicas",
+        "Week1",
+        "September",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "Matematicas",
+      "Week1",
+      "September",
+      "Septiembre",
+      "Tareas",
+      "Diagnosticas"
+    ],
+    "version_tag": "Original"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\Matematicas\\Septiembre\\Tareas\\Diagnosticas\\Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png",
+    "final_filename": "Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png",
+    "original_filename": "mate_2.png",
+    "relative_dir": "Matematicas/Septiembre/Tareas/Diagnosticas",
+    "relative_path": "Matematicas/Septiembre/Tareas/Diagnosticas/Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png",
+    "sha256": "e16eccb75d919dd45b50c065499808dcf7cd2f0045977f66a9508793dd1434ab",
+    "size_bytes": 476183
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-08 15:48:18",
+    "file_modified": "2026-09-08 15:48:19",
+    "ingested_at": "2026-09-08 15:48:57"
+  }
+}

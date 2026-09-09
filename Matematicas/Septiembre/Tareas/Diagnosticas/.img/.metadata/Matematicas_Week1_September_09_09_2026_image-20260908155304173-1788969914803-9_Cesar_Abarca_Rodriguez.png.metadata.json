@@ -1,0 +1,57 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "Matematicas > Septiembre > Tareas > Diagnosticas > img",
+      "category": "Tareas",
+      "hierarchy": [
+        "Matematicas",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas",
+        "img"
+      ],
+      "modality": "img",
+      "month": "Septiembre",
+      "relative_dir": "Matematicas/Septiembre/Tareas/Diagnosticas/img",
+      "subcategory": "Diagnosticas",
+      "subject": "Matematicas",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "Matematicas",
+        "Week1",
+        "September",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas",
+        "img"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "Matematicas",
+      "Week1",
+      "September",
+      "Septiembre",
+      "Tareas",
+      "Diagnosticas",
+      "img"
+    ],
+    "version_tag": "img"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\Matematicas\\Septiembre\\Tareas\\Diagnosticas\\img\\Matematicas_Week1_September_09_09_2026_image-20260908155304173-1788969914803-9_Cesar_Abarca_Rodriguez.png",
+    "final_filename": "Matematicas_Week1_September_09_09_2026_image-20260908155304173-1788969914803-9_Cesar_Abarca_Rodriguez.png",
+    "original_filename": "image-20260908155304173-1788969914803-9.png",
+    "relative_dir": "Matematicas/Septiembre/Tareas/Diagnosticas/img",
+    "relative_path": "Matematicas/Septiembre/Tareas/Diagnosticas/img/Matematicas_Week1_September_09_09_2026_image-20260908155304173-1788969914803-9_Cesar_Abarca_Rodriguez.png",
+    "sha256": "ddce49579694a94c519980a3b466496229cbd1fb6a5a129b696199a574fc2727",
+    "size_bytes": 12598
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-09 11:05:14",
+    "file_modified": "2026-09-09 11:05:14",
+    "ingested_at": "2026-09-09 11:05:32"
+  }
+}

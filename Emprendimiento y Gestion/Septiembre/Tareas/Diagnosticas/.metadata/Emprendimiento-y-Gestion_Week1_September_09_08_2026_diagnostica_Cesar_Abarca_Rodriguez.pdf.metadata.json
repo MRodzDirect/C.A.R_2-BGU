@@ -1,0 +1,54 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "Emprendimiento y Gestion > Septiembre > Tareas > Diagnosticas",
+      "category": "Tareas",
+      "hierarchy": [
+        "Emprendimiento y Gestion",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "modality": null,
+      "month": "Septiembre",
+      "relative_dir": "Emprendimiento y Gestion/Septiembre/Tareas/Diagnosticas",
+      "subcategory": "Diagnosticas",
+      "subject": "Emprendimiento y Gestion",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "Emprendimiento y Gestion",
+        "Week1",
+        "September",
+        "Septiembre",
+        "Tareas",
+        "Diagnosticas"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "Emprendimiento y Gestion",
+      "Week1",
+      "September",
+      "Septiembre",
+      "Tareas",
+      "Diagnosticas"
+    ],
+    "version_tag": "Original"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\Emprendimiento y Gestion\\Septiembre\\Tareas\\Diagnosticas\\Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf",
+    "final_filename": "Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf",
+    "original_filename": "Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf",
+    "relative_dir": "Emprendimiento y Gestion/Septiembre/Tareas/Diagnosticas",
+    "relative_path": "Emprendimiento y Gestion/Septiembre/Tareas/Diagnosticas/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf",
+    "sha256": "d6dc07db6fda34a6985d62af2a7720c74fe705d3b621351d369a2225594d4a4a",
+    "size_bytes": 64936
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-08 15:39:04",
+    "file_modified": "2026-09-08 15:39:04",
+    "ingested_at": "2026-09-08 15:39:42"
+  }
+}

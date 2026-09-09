@@ -1,0 +1,48 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "PRESENTAR_HOY > 08_09_2026",
+      "category": null,
+      "hierarchy": [
+        "PRESENTAR_HOY",
+        "08_09_2026"
+      ],
+      "modality": null,
+      "month": "08_09_2026",
+      "relative_dir": "PRESENTAR_HOY/08_09_2026",
+      "subcategory": null,
+      "subject": "PRESENTAR_HOY",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "PRESENTAR_HOY",
+        "Week1",
+        "September",
+        "08_09_2026"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "PRESENTAR_HOY",
+      "Week1",
+      "September",
+      "08_09_2026"
+    ],
+    "version_tag": "Original"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\PRESENTAR_HOY\\08_09_2026\\Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf",
+    "final_filename": "Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf",
+    "original_filename": "Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf",
+    "relative_dir": "PRESENTAR_HOY/08_09_2026",
+    "relative_path": "PRESENTAR_HOY/08_09_2026/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf",
+    "sha256": "d6dc07db6fda34a6985d62af2a7720c74fe705d3b621351d369a2225594d4a4a",
+    "size_bytes": 64936
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-08 15:39:04",
+    "file_modified": "2026-09-08 15:39:04",
+    "ingested_at": "2026-09-08 15:39:04"
+  }
+}
