@@ -1095,3 +1095,259 @@ $ git diff --stat HEAD~1 HEAD
 ```
 
 ---
+### 🚀 Git Auto-Commit: `2026-09-09 11:07:27`
+> **Mensaje:** `Auto-update SFMS: 2026-09-09 11:07:21`  
+> **Resumen:** Sincronización automática periódica
+
+```shell
+$ git add .
+warning: in the working copy of '.audit/git_audit.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.audit/movimientos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.audit/timeline.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'PRESENTAR_HOY/08_09_2026/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez-v1.pdf', LF will be replaced by CRLF the next time Git touches it
+
+
+$ git commit -m "Auto-update SFMS: 2026-09-09 11:07:21"
+[main 6cbc392] Auto-update SFMS: 2026-09-09 11:07:21
+ 80 files changed, 41576 insertions(+), 65 deletions(-)
+ create mode 100644 Emprendimiento y Gestion/Septiembre/.metadata/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez-v1.pdf.metadata.json
+ create mode 100644 Emprendimiento y Gestion/Septiembre/.metadata/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf.metadata.json
+ create mode 100644 Emprendimiento y Gestion/Septiembre/Tareas/Diagnosticas/.metadata/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf.metadata.json
+ create mode 100644 Emprendimiento y Gestion/Septiembre/Tareas/Diagnosticas/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155304173-1788969914803-9_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155304173_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155317446-1788969914802-8_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155317446_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155328539-1788969914803-10_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155328539_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155942627-1788969914803-11_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155942627_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160006740-1788969914803-12_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160006740_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160020184-1788969914803-13_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160020184_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 "Matematicas/Septiembre/Tareas/Diagnosticas/.metadata/Matematicas_Week1_September_09_08_2026_Test-Funciones-Lineales-funci\303\263n-lineal_Cesar_Abarca_Rodriguez.mhtml.metadata.json"
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/.metadata/Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/.metadata/Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/Matematicas_Week1_September_09_08_2026_Cuaderno_Cesar_Abarca_Rodriguez.md
+ create mode 100644 "Matematicas/Septiembre/Tareas/Diagnosticas/Matematicas_Week1_September_09_08_2026_Test-Funciones-Lineales-funci\303\263n-lineal_Cesar_Abarca_Rodriguez.mhtml"
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png
+ create mode 100644 Matematicas/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+ create mode 100644 PRESENTAR_HOY/08_09_2026/.metadata/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez-v1.pdf.metadata.json
+ create mode 100644 PRESENTAR_HOY/08_09_2026/.metadata/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf.metadata.json
+ create mode 100644 PRESENTAR_HOY/08_09_2026/.metadata/Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/08_09_2026/.metadata/Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/08_09_2026/.metadata/Quimica_Week1_September_09_08_2026_0386d079-df9d-44b3-b927-058b6cad9e00_Cesar_Abarca_Rodriguez.jpg.metadata.json
+ create mode 100644 PRESENTAR_HOY/08_09_2026/.metadata/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg.metadata.json
+ create mode 100644 PRESENTAR_HOY/08_09_2026/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez-v1.pdf
+ create mode 100644 PRESENTAR_HOY/08_09_2026/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf
+ create mode 100644 PRESENTAR_HOY/08_09_2026/Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/08_09_2026/Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/08_09_2026/Quimica_Week1_September_09_08_2026_0386d079-df9d-44b3-b927-058b6cad9e00_Cesar_Abarca_Rodriguez.jpg
+ create mode 100644 PRESENTAR_HOY/08_09_2026/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155304173-1788969914803-9_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155304173_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155317446-1788969914802-8_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155317446_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155328539-1788969914803-10_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155328539_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155942627-1788969914803-11_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155942627_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160006740-1788969914803-12_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160006740_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160020184-1788969914803-13_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160020184_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155304173-1788969914803-9_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155304173_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155317446-1788969914802-8_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155317446_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155328539-1788969914803-10_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155328539_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155942627-1788969914803-11_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155942627_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908160006740-1788969914803-12_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908160006740_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908160020184-1788969914803-13_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908160020184_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/09_09_2026/PRESENTAR_HOY.md
+ create mode 100644 Quimica/September/Tareas/.metadata/Quimica_Week1_September_09_08_2026_0386d079-df9d-44b3-b927-058b6cad9e00_Cesar_Abarca_Rodriguez.jpg.metadata.json
+ create mode 100644 Quimica/September/Tareas/.metadata/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg.metadata.json
+ create mode 100644 Quimica/September/Tareas/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg
+ create mode 100644 Quimica/September/Tareas/REGISTRO_CARPETA.md
+
+
+$ git push
+To https://github.com/MRodzDirect/C.A.R_2-BGU
+   9568e20..6cbc392  main -> main
+```
+
+#### 📊 Resumen de Diferencias (Diff de Archivos)
+```shell
+$ git diff --name-status HEAD~1 HEAD
+M	.audit/eliminaciones.md
+M	.audit/git_audit.md
+M	.audit/movimientos.md
+M	.audit/timeline.md
+M	.sfms_data/sfms_postgres_ledger.db
+M	Biologia/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+M	Ciudadania/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+M	Cultura Fisica/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+A	Emprendimiento y Gestion/Septiembre/.metadata/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez-v1.pdf.metadata.json
+A	Emprendimiento y Gestion/Septiembre/.metadata/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf.metadata.json
+A	Emprendimiento y Gestion/Septiembre/Tareas/Diagnosticas/.metadata/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf.metadata.json
+A	Emprendimiento y Gestion/Septiembre/Tareas/Diagnosticas/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf
+M	Filosofia/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+M	Historia/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+M	Ingles/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+M	Lenguaje/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+A	Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155304173-1788969914803-9_Cesar_Abarca_Rodriguez.png.metadata.json
+A	Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155304173_Cesar_Abarca_Rodriguez.png.metadata.json
+A	Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155317446-1788969914802-8_Cesar_Abarca_Rodriguez.png.metadata.json
+A	Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155317446_Cesar_Abarca_Rodriguez.png.metadata.json
+A	Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155328539-1788969914803-10_Cesar_Abarca_Rodriguez.png.metadata.json
+A	Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155328539_Cesar_Abarca_Rodriguez.png.metadata.json
+A	Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155942627-1788969914803-11_Cesar_Abarca_Rodriguez.png.metadata.json
+A	Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155942627_Cesar_Abarca_Rodriguez.png.metadata.json
+A	Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160006740-1788969914803-12_Cesar_Abarca_Rodriguez.png.metadata.json
+A	Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160006740_Cesar_Abarca_Rodriguez.png.metadata.json
+A	Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160020184-1788969914803-13_Cesar_Abarca_Rodriguez.png.metadata.json
+A	Matematicas/Septiembre/Tareas/Diagnosticas/.img/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160020184_Cesar_Abarca_Rodriguez.png.metadata.json
+A	"Matematicas/Septiembre/Tareas/Diagnosticas/.metadata/Matematicas_Week1_September_09_08_2026_Test-Funciones-Lineales-funci\303\263n-lineal_Cesar_Abarca_Rodriguez.mhtml.metadata.json"
+A	Matematicas/Septiembre/Tareas/Diagnosticas/.metadata/Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png.metadata.json
+A	Matematicas/Septiembre/Tareas/Diagnosticas/.metadata/Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png.metadata.json
+A	Matematicas/Septiembre/Tareas/Diagnosticas/Matematicas_Week1_September_09_08_2026_Cuaderno_Cesar_Abarca_Rodriguez.md
+A	"Matematicas/Septiembre/Tareas/Diagnosticas/Matematicas_Week1_September_09_08_2026_Test-Funciones-Lineales-funci\303\263n-lineal_Cesar_Abarca_Rodriguez.mhtml"
+A	Matematicas/Septiembre/Tareas/Diagnosticas/Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png
+A	Matematicas/Septiembre/Tareas/Diagnosticas/Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png
+A	Matematicas/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+A	PRESENTAR_HOY/08_09_2026/.metadata/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez-v1.pdf.metadata.json
+A	PRESENTAR_HOY/08_09_2026/.metadata/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf.metadata.json
+A	PRESENTAR_HOY/08_09_2026/.metadata/Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/08_09_2026/.metadata/Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/08_09_2026/.metadata/Quimica_Week1_September_09_08_2026_0386d079-df9d-44b3-b927-058b6cad9e00_Cesar_Abarca_Rodriguez.jpg.metadata.json
+A	PRESENTAR_HOY/08_09_2026/.metadata/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg.metadata.json
+A	PRESENTAR_HOY/08_09_2026/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez-v1.pdf
+A	PRESENTAR_HOY/08_09_2026/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf
+A	PRESENTAR_HOY/08_09_2026/Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/08_09_2026/Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png
+M	PRESENTAR_HOY/08_09_2026/PRESENTAR_HOY.md
+A	PRESENTAR_HOY/08_09_2026/Quimica_Week1_September_09_08_2026_0386d079-df9d-44b3-b927-058b6cad9e00_Cesar_Abarca_Rodriguez.jpg
+A	PRESENTAR_HOY/08_09_2026/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg
+A	PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155304173-1788969914803-9_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155304173_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155317446-1788969914802-8_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155317446_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155328539-1788969914803-10_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155328539_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155942627-1788969914803-11_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908155942627_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160006740-1788969914803-12_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160006740_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160020184-1788969914803-13_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_09_2026_image-20260908160020184_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155304173-1788969914803-9_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155304173_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155317446-1788969914802-8_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155317446_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155328539-1788969914803-10_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155328539_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155942627-1788969914803-11_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908155942627_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908160006740-1788969914803-12_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908160006740_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908160020184-1788969914803-13_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/09_09_2026/Matematicas_Week1_September_09_09_2026_image-20260908160020184_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/09_09_2026/PRESENTAR_HOY.md
+A	Quimica/September/Tareas/.metadata/Quimica_Week1_September_09_08_2026_0386d079-df9d-44b3-b927-058b6cad9e00_Cesar_Abarca_Rodriguez.jpg.metadata.json
+A	Quimica/September/Tareas/.metadata/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg.metadata.json
+A	Quimica/September/Tareas/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg
+A	Quimica/September/Tareas/REGISTRO_CARPETA.md
+M	RESUMEN_ARCHIVOS_2BGU-leer-facil.md
+M	RESUMEN_ARCHIVOS_2BGU.md
+
+$ git diff --stat HEAD~1 HEAD
+.audit/eliminaciones.md                            |    24 +
+ .audit/git_audit.md                                |    54 +
+ .audit/movimientos.md                              |    52 +
+ .audit/timeline.md                                 |   102 +
+ .sfms_data/sfms_postgres_ledger.db                 |   Bin 40960 -> 57344 bytes
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |     2 +-
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |     2 +-
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |     2 +-
+ ...ica_Cesar_Abarca_Rodriguez-v1.pdf.metadata.json |    48 +
+ ...ostica_Cesar_Abarca_Rodriguez.pdf.metadata.json |    48 +
+ ...ostica_Cesar_Abarca_Rodriguez.pdf.metadata.json |    54 +
+ ..._08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf |   Bin 0 -> 64936 bytes
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |     2 +-
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |     2 +-
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |     2 +-
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |     2 +-
+ ...4803-9_Cesar_Abarca_Rodriguez.png.metadata.json |    57 +
+ ...304173_Cesar_Abarca_Rodriguez.png.metadata.json |    57 +
+ ...4802-8_Cesar_Abarca_Rodriguez.png.metadata.json |    57 +
+ ...317446_Cesar_Abarca_Rodriguez.png.metadata.json |    57 +
+ ...803-10_Cesar_Abarca_Rodriguez.png.metadata.json |    57 +
+ ...328539_Cesar_Abarca_Rodriguez.png.metadata.json |    57 +
+ ...803-11_Cesar_Abarca_Rodriguez.png.metadata.json |    57 +
+ ...942627_Cesar_Abarca_Rodriguez.png.metadata.json |    57 +
+ ...803-12_Cesar_Abarca_Rodriguez.png.metadata.json |    57 +
+ ...006740_Cesar_Abarca_Rodriguez.png.metadata.json |    57 +
+ ...803-13_Cesar_Abarca_Rodriguez.png.metadata.json |    57 +
+ ...020184_Cesar_Abarca_Rodriguez.png.metadata.json |    57 +
+ ...eal_Cesar_Abarca_Rodriguez.mhtml.metadata.json" |    54 +
+ ...mate-1_Cesar_Abarca_Rodriguez.png.metadata.json |    54 +
+ ...mate-2_Cesar_Abarca_Rodriguez.png.metadata.json |    54 +
+ ...r_09_08_2026_Cuaderno_Cesar_Abarca_Rodriguez.md |   150 +
+ ...i\303\263n-lineal_Cesar_Abarca_Rodriguez.mhtml" | 39001 +++++++++++++++++++
+ ...er_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 203684 bytes
+ ...er_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 476183 bytes
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |    36 +
+ ...ica_Cesar_Abarca_Rodriguez-v1.pdf.metadata.json |    48 +
+ ...ostica_Cesar_Abarca_Rodriguez.pdf.metadata.json |    48 +
+ ...mate-1_Cesar_Abarca_Rodriguez.png.metadata.json |    48 +
+ ...mate-2_Cesar_Abarca_Rodriguez.png.metadata.json |    48 +
+ ...ad9e00_Cesar_Abarca_Rodriguez.jpg.metadata.json |    48 +
+ ...ncillo_Cesar_Abarca_Rodriguez.jpg.metadata.json |    48 +
+ ..._2026_diagnostica_Cesar_Abarca_Rodriguez-v1.pdf |    16 +
+ ..._08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf |   Bin 0 -> 64936 bytes
+ ...er_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 203684 bytes
+ ...er_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 476183 bytes
+ PRESENTAR_HOY/08_09_2026/PRESENTAR_HOY.md          |    14 +-
+ ...b3-b927-058b6cad9e00_Cesar_Abarca_Rodriguez.jpg |   Bin 0 -> 103732 bytes
+ ..._09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg |   Bin 0 -> 103732 bytes
+ ...4803-9_Cesar_Abarca_Rodriguez.png.metadata.json |    48 +
+ ...304173_Cesar_Abarca_Rodriguez.png.metadata.json |    48 +
+ ...4802-8_Cesar_Abarca_Rodriguez.png.metadata.json |    48 +
+ ...317446_Cesar_Abarca_Rodriguez.png.metadata.json |    48 +
+ ...803-10_Cesar_Abarca_Rodriguez.png.metadata.json |    48 +
+ ...328539_Cesar_Abarca_Rodriguez.png.metadata.json |    48 +
+ ...803-11_Cesar_Abarca_Rodriguez.png.metadata.json |    48 +
+ ...942627_Cesar_Abarca_Rodriguez.png.metadata.json |    48 +
+ ...803-12_Cesar_Abarca_Rodriguez.png.metadata.json |    48 +
+ ...006740_Cesar_Abarca_Rodriguez.png.metadata.json |    48 +
+ ...803-13_Cesar_Abarca_Rodriguez.png.metadata.json |    48 +
+ ...020184_Cesar_Abarca_Rodriguez.png.metadata.json |    48 +
+ ...4173-1788969914803-9_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 12598 bytes
+ ...ge-20260908155304173_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 12598 bytes
+ ...7446-1788969914802-8_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 22501 bytes
+ ...ge-20260908155317446_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 22501 bytes
+ ...539-1788969914803-10_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 22501 bytes
+ ...ge-20260908155328539_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 22501 bytes
+ ...627-1788969914803-11_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 101887 bytes
+ ...ge-20260908155942627_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 101887 bytes
+ ...740-1788969914803-12_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 340552 bytes
+ ...ge-20260908160006740_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 340552 bytes
+ ...184-1788969914803-13_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 328764 bytes
+ ...ge-20260908160020184_Cesar_Abarca_Rodriguez.png |   Bin 0 -> 328764 bytes
+ PRESENTAR_HOY/09_09_2026/PRESENTAR_HOY.md          |    21 +
+ ...ad9e00_Cesar_Abarca_Rodriguez.jpg.metadata.json |    45 +
+ ...ncillo_Cesar_Abarca_Rodriguez.jpg.metadata.json |    49 +
+ ..._09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg |   Bin 0 -> 103732 bytes
+ Quimica/September/Tareas/REGISTRO_CARPETA.md       |    33 +
+ RESUMEN_ARCHIVOS_2BGU-leer-facil.md                |   126 +-
+ RESUMEN_ARCHIVOS_2BGU.md                           |    44 +-
+ 80 files changed, 41576 insertions(+), 65 deletions(-)
+```
+
+---

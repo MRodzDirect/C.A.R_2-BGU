@@ -16,7 +16,7 @@ Respuesta correcta: tener pendiente negativa.
 
 Procedimiento: cuando la pendiente es menor que cero, la recta baja de izquierda a derecha. Por eso, no necesariamente toda la gráfica es negativa; la característica principal es su inclinación.
 
-![image-20260908155317446](./../../../../../../../AppData/Roaming/Typora/typora-user-images/image-20260908155317446.png)
+![image-20260908155317446](./.img/image-20260908155317446.png)
 
 ### 2. La gráfica de una función creciente es:
 
@@ -24,7 +24,7 @@ Respuesta correcta: tener pendiente positiva.
 
 Procedimiento: una función creciente aumenta cuando aumenta el valor de x. La recta sube de izquierda a derecha, aunque sus valores no siempre tienen que ser positivos.
 
-![image-20260908155304173](./../../../../../../../AppData/Roaming/Typora/typora-user-images/image-20260908155304173.png)
+![image-20260908155304173](./.img/image-20260908155304173.png)
 
 ### 3. La gráfica de una función con pendiente igual a cero es:
 
@@ -32,7 +32,7 @@ Respuesta correcta: constante.
 
 Procedimiento: al reemplazar m por cero en y = mx + b, queda y = b. Entonces, la recta es horizontal y mantiene el mismo valor.
 
-![image-20260908155328539](./../../../../../../../AppData/Roaming/Typora/typora-user-images/image-20260908155328539.png)
+![image-20260908155328539](./.img/image-20260908155328539.png)
 
 ### 4. La gráfica de una función lineal se caracteriza por ser una:
 
@@ -109,7 +109,7 @@ La función es constante, porque siempre devuelve el mismo valor, sin importar c
 
 Los puntos obtenidos son (0, 3), (1, 3), (2, 3) y (-2, 3). Al ubicarlos en el plano cartesiano, todos quedan sobre una recta horizontal. Por eso, se comprueba que pertenecen a la gráfica de f(x) = 3.
 
-![image-20260908155942627](./../../../../../../../AppData/Roaming/Typora/typora-user-images/image-20260908155942627.png)
+![image-20260908155942627](./.img/image-20260908155942627.png)
 
 ### b) f(x) = -2x más 3
 
@@ -128,7 +128,7 @@ f(1) = -2(1) más 3 = 1
 
 Los puntos obtenidos son (0, 3), (1, 1), (2, -1) y (-1, 5). Estos puntos forman una recta decreciente, porque la pendiente es -2. A mi parecer, aquí se nota clarito que, al aumentar x, los valores de f(x) disminuyen.
 
-![image-20260908160006740](./../../../../../../../AppData/Roaming/Typora/typora-user-images/image-20260908160006740.png)
+![image-20260908160006740](./.img/image-20260908160006740.png)
 
 ### c) f(x) = x² - x más 2
 
@@ -147,4 +147,4 @@ f(-1) = (-1)² - (-1) más 2 = 1 más 1 más 2 = 4
 
 Los puntos obtenidos son (0, 2), (1, 2), (2, 4) y (-1, 4). Al ubicarlos, se observa una gráfica curva con forma de parábola. La tabla permite comprobar que los puntos coinciden con la gráfica presentada, así que el procedimiento resulta bastante útil y facilísimo de verificar.
 
-![image-20260908160020184](./../../../../../../../AppData/Roaming/Typora/typora-user-images/image-20260908160020184.png)
+![image-20260908160020184](./.img/image-20260908160020184.png)

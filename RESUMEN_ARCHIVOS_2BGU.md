@@ -1,8 +1,8 @@
 # 📚 Master Ledger: Registro General de Archivos - 2-BGU
 
 > **Estudiante:** César Abarca Rodríguez  
-> **Última Actualización:** `2026-09-09 11:07:10`  
-> **Total de Archivos Activos en el Sistema:** `41`  
+> **Última Actualización:** `2026-09-09 11:12:58`  
+> **Total de Archivos Activos en el Sistema:** `43`  
 > **Modo Fácil:** [Ver Resumen Simplificado de Hoy](RESUMEN_ARCHIVOS_2BGU-leer-facil.md)  
 
 Este documento refleja el **estado real y vigente** del sistema. Si un archivo es eliminado o movido, este registro se actualiza automáticamente.
@@ -62,18 +62,20 @@ Este documento refleja el **estado real y vigente** del sistema. Si un archivo e
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | `Lenguaje_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf` | [Lenguaje/Septiembre/Tareas/Diagnosticas](Lenguaje/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md) | 2026-09-07 22:06:28 | 2026-09-07 22:11:16 | `Original` | 842.9 KB | `b279673724...` |
 
-### 📌 Matematicas (3 archivos)
+### 📌 Matematicas (4 archivos)
 
 | Archivo Organizado | Carpeta Relativa | Creación | Última Modificación | Versión | Tamaño | SHA-256 |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| `Matematicas_Week1_September_09_08_2026_Cuaderno_Cesar_Abarca_Rodriguez.docx` | [Matematicas/Septiembre/Tareas/Diagnosticas](Matematicas/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md) | 2026-09-09 11:12:53 | 2026-09-09 11:12:57 | `Original` | 861.8 KB | `cfebce880a...` |
 | `Matematicas_Week1_September_09_08_2026_Test-Funciones-Lineales-función-lineal_Cesar_Abarca_Rodriguez.mhtml` | [Matematicas/Septiembre/Tareas/Diagnosticas](Matematicas/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md) | 2026-09-08 15:50:12 | 2026-09-08 15:50:12 | `Original` | 1.80 MB | `096b2a4c88...` |
 | `Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png` | [Matematicas/Septiembre/Tareas/Diagnosticas](Matematicas/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md) | 2026-09-08 15:48:02 | 2026-09-08 15:48:03 | `Original` | 198.9 KB | `0c6f404815...` |
 | `Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png` | [Matematicas/Septiembre/Tareas/Diagnosticas](Matematicas/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md) | 2026-09-08 15:48:18 | 2026-09-08 15:48:19 | `Original` | 465.0 KB | `e16eccb75d...` |
 
-### 📌 PRESENTAR_HOY (26 archivos)
+### 📌 PRESENTAR_HOY (27 archivos)
 
 | Archivo Organizado | Carpeta Relativa | Creación | Última Modificación | Versión | Tamaño | SHA-256 |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| `Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg` | [PRESENTAR_HOY/09_09_2026](PRESENTAR_HOY/09_09_2026/REGISTRO_CARPETA.md) | 2026-09-09 11:12:29 | 2026-09-08 15:22:03 | `Original` | 101.3 KB | `e90f67a9b7...` |
 | `Matematicas_Week1_September_09_09_2026_image-20260908160006740_Cesar_Abarca_Rodriguez.png` | [PRESENTAR_HOY/09_09_2026](PRESENTAR_HOY/09_09_2026/REGISTRO_CARPETA.md) | 2026-09-09 11:05:36 | 2026-09-09 11:04:10 | `Original` | 332.6 KB | `eff6d9b07d...` |
 | `Matematicas_Week1_September_09_09_2026_image-20260908160020184-1788969914803-13_Cesar_Abarca_Rodriguez.png` | [PRESENTAR_HOY/09_09_2026](PRESENTAR_HOY/09_09_2026/REGISTRO_CARPETA.md) | 2026-09-09 11:05:36 | 2026-09-09 11:05:14 | `Original` | 321.1 KB | `4150a2f77f...` |
 | `Matematicas_Week1_September_09_09_2026_image-20260908160020184_Cesar_Abarca_Rodriguez.png` | [PRESENTAR_HOY/09_09_2026](PRESENTAR_HOY/09_09_2026/REGISTRO_CARPETA.md) | 2026-09-09 11:05:37 | 2026-09-09 11:04:10 | `Original` | 321.1 KB | `4150a2f77f...` |
