@@ -1,0 +1,48 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "PRESENTAR_HOY > 25_09_2026",
+      "category": null,
+      "hierarchy": [
+        "PRESENTAR_HOY",
+        "25_09_2026"
+      ],
+      "modality": null,
+      "month": "25_09_2026",
+      "relative_dir": "PRESENTAR_HOY/25_09_2026",
+      "subcategory": null,
+      "subject": "PRESENTAR_HOY",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "PRESENTAR_HOY",
+        "Week3",
+        "September",
+        "25_09_2026"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "PRESENTAR_HOY",
+      "Week3",
+      "September",
+      "25_09_2026"
+    ],
+    "version_tag": "Original"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\PRESENTAR_HOY\\25_09_2026\\Quimica_Week3_September_09_21_2026_Representaciones-Lewis-Elementos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf",
+    "final_filename": "Quimica_Week3_September_09_21_2026_Representaciones-Lewis-Elementos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf",
+    "original_filename": "Quimica_Week3_September_09_21_2026_Representaciones-Lewis-Elementos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf",
+    "relative_dir": "PRESENTAR_HOY/25_09_2026",
+    "relative_path": "PRESENTAR_HOY/25_09_2026/Quimica_Week3_September_09_21_2026_Representaciones-Lewis-Elementos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf",
+    "sha256": "9578a1225ba8cfd03bbbfa463214c3f8ab95d86cae9545c5164bd4b3aafbf292",
+    "size_bytes": 98420
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-27 16:53:08",
+    "file_modified": "2026-09-21 15:02:07",
+    "ingested_at": "2026-09-27 16:53:21"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "PRESENTAR_HOY > 25_09_2026",
+      "category": null,
+      "hierarchy": [
+        "PRESENTAR_HOY",
+        "25_09_2026"
+      ],
+      "modality": null,
+      "month": "25_09_2026",
+      "relative_dir": "PRESENTAR_HOY/25_09_2026",
+      "subcategory": null,
+      "subject": "PRESENTAR_HOY",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "PRESENTAR_HOY",
+        "Week3",
+        "September",
+        "25_09_2026"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "PRESENTAR_HOY",
+      "Week3",
+      "September",
+      "25_09_2026"
+    ],
+    "version_tag": "Original"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\PRESENTAR_HOY\\25_09_2026\\Lenguaje_Week3_September_09_27_2026_La-señalética-y-su-importancia-en-el-entorno-educativo-v2-corta_Cesar_Abarca_Rodriguez.docx",
+    "final_filename": "Lenguaje_Week3_September_09_27_2026_La-señalética-y-su-importancia-en-el-entorno-educativo-v2-corta_Cesar_Abarca_Rodriguez.docx",
+    "original_filename": "Lenguaje_Week3_September_09_27_2026_La-señalética-y-su-importancia-en-el-entorno-educativo-v2-corta_Cesar_Abarca_Rodriguez.docx",
+    "relative_dir": "PRESENTAR_HOY/25_09_2026",
+    "relative_path": "PRESENTAR_HOY/25_09_2026/Lenguaje_Week3_September_09_27_2026_La-señalética-y-su-importancia-en-el-entorno-educativo-v2-corta_Cesar_Abarca_Rodriguez.docx",
+    "sha256": "ab989623ca66f5624014a22cd3f78ad3415f40aca4673e06033d71cb9116304e",
+    "size_bytes": 18944
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-27 17:07:09",
+    "file_modified": "2026-09-27 17:07:08",
+    "ingested_at": "2026-09-27 17:07:09"
+  }
+}

@@ -1,8 +1,8 @@
 # 📂 Registro Local de Archivos: Tareas
 
-> **Ubicación:** `Quimica/September/Tareas`  
-> **Ruta Conceptual:** `Quimica > September > Tareas`  
-> **Última Actualización:** `2026-09-21 14:52:45`  
+> **Ubicación:** `Quimica/Septiembre/Tareas`  
+> **Ruta Conceptual:** `Quimica > Septiembre > Tareas`  
+> **Última Actualización:** `2026-09-27 17:24:10`  
 > **Documentos Vigentes:** `1`  
 > **Índice General:** [Volver al Master Ledger](../../../RESUMEN_ARCHIVOS_2BGU.md)  
 
@@ -14,7 +14,7 @@ Esta nota refleja el **estado real** de los archivos presentes en esta carpeta.
 ```text
 2-BGU
  ├── Quimica
- │   ├── September
+ │   ├── Septiembre
  │   │   └── Tareas  <-- [Ubicación Actual]
 ```
 

@@ -1,9 +1,9 @@
 # 📂 Registro Local de Archivos: Individual
 
-> **Ubicación:** `Quimica/Septiembre/Tareas/Calificado/Individual`  
-> **Ruta Conceptual:** `Quimica > Septiembre > Tareas > Calificado > Individual`  
+> **Ubicación:** `Lenguaje/Septiembre/Tareas/Calificado/Individual`  
+> **Ruta Conceptual:** `Lenguaje > Septiembre > Tareas > Calificado > Individual`  
 > **Última Actualización:** `2026-09-27 17:24:10`  
-> **Documentos Vigentes:** `1`  
+> **Documentos Vigentes:** `2`  
 > **Índice General:** [Volver al Master Ledger](../../../../../RESUMEN_ARCHIVOS_2BGU.md)  
 
 Esta nota refleja el **estado real** de los archivos presentes en esta carpeta.
@@ -13,7 +13,7 @@ Esta nota refleja el **estado real** de los archivos presentes en esta carpeta.
 ### 🗂️ Jerarquía de la Subcarpeta
 ```text
 2-BGU
- ├── Quimica
+ ├── Lenguaje
  │   ├── Septiembre
  │   │   ├── Tareas
  │   │   │   ├── Calificado
@@ -26,7 +26,8 @@ Esta nota refleja el **estado real** de los archivos presentes en esta carpeta.
 
 | Archivo Modificado (SFMS) | Nombre Original | Creación | Última Modificación | Ingesta (Exacta) | Semana | Versión | Tamaño | SHA-256 |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| `Quimica_Week3_September_09_21_2026_Representaciones-Lewis-Elementos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf` | `Representaciones Lewis Elementos Periodos 3 al 6.pdf` | 2026-09-21 15:02:07 | 2026-09-21 15:02:07 | **2026-09-21 15:02:08** | Semana 3 | `Original` | 96.1 KB | `9578a1225b...` |
+| `Lenguaje_Week3_September_09_27_2026_La-señalética-y-su-importancia-en-el-entorno-educativo-v2-corta_Cesar_Abarca_Rodriguez.docx` | `La señalética y su importancia en el entorno educativo - v2 - corta.docx` | 2026-09-27 17:07:08 | 2026-09-27 17:07:08 | **2026-09-27 17:07:09** | Semana 3 | `Original` | 18.5 KB | `ab989623ca...` |
+| `Lenguaje_Week3_September_09_27_2026_La-señalética-y-su-importancia-en-el-entorno-educativo-v2_Cesar_Abarca_Rodriguez.docx` | `La señalética y su importancia en el entorno educativo - v2.docx` | 2026-09-27 17:01:54 | 2026-09-27 17:01:54 | **2026-09-27 17:01:55** | Semana 3 | `Original` | 22.1 KB | `2d75cc1d4f...` |
 
 ---
 

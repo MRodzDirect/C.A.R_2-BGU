@@ -1490,3 +1490,191 @@ $ git diff --stat HEAD~1 HEAD
 ```
 
 ---
+### 🚀 Git Auto-Commit: `2026-09-21 15:05:35`
+> **Mensaje:** `Auto-update SFMS: 2026-09-21 15:05:26`  
+> **Resumen:** Sincronización automática periódica
+
+```shell
+$ git add .
+warning: in the working copy of '.audit/git_audit.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.audit/movimientos.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.audit/timeline.md', LF will be replaced by CRLF the next time Git touches it
+
+
+$ git commit -m "Auto-update SFMS: 2026-09-21 15:05:26"
+[main 0855224] Auto-update SFMS: 2026-09-21 15:05:26
+ 58 files changed, 1376 insertions(+), 80 deletions(-)
+ create mode 100644 Matematicas/Septiembre/Tareas/Calificado/Individual/.metadata/Matematicas_Week3_September_09_21_2026_Cuadro-comparativo-de-las-funciones-polinomiales_Cesar_Abarca_Rodriguez.pdf.metadata.json
+ create mode 100644 Matematicas/Septiembre/Tareas/Calificado/Individual/Cuadro comparativo de las funciones polinomiales.md
+ create mode 100644 Matematicas/Septiembre/Tareas/Calificado/Individual/Matematicas_Week3_September_09_21_2026_Cuadro-comparativo-de-las-funciones-polinomiales_Cesar_Abarca_Rodriguez.pdf
+ create mode 100644 Matematicas/Septiembre/Tareas/Calificado/Individual/REGISTRO_CARPETA.md
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Biologia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Biologia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Ciudadania_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Cultura-Fisica_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Filosofia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Historia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Ingles_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Lenguaje_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png.metadata.json
+ create mode 100644 PRESENTAR_HOY/21_09_2026/.metadata/Matematicas_Week3_September_09_21_2026_Cuadro-comparativo-de-las-funciones-polinomiales_Cesar_Abarca_Rodriguez.pdf.metadata.json
+ create mode 100644 PRESENTAR_HOY/21_09_2026/.metadata/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg.metadata.json
+ create mode 100644 PRESENTAR_HOY/21_09_2026/.metadata/Quimica_Week3_September_09_21_2026_Representaciones-Lewis-Elementos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf.metadata.json
+ create mode 100644 PRESENTAR_HOY/21_09_2026/Biologia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf
+ create mode 100644 PRESENTAR_HOY/21_09_2026/Biologia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/21_09_2026/Ciudadania_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf
+ create mode 100644 PRESENTAR_HOY/21_09_2026/Cultura-Fisica_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf
+ create mode 100644 PRESENTAR_HOY/21_09_2026/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf
+ create mode 100644 PRESENTAR_HOY/21_09_2026/Filosofia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf
+ create mode 100644 PRESENTAR_HOY/21_09_2026/Historia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf
+ create mode 100644 PRESENTAR_HOY/21_09_2026/Ingles_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf
+ create mode 100644 PRESENTAR_HOY/21_09_2026/Lenguaje_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf
+ create mode 100644 PRESENTAR_HOY/21_09_2026/Matematicas_Week1_September_09_08_2026_Cuaderno_Cesar_Abarca_Rodriguez.docx
+ create mode 100644 PRESENTAR_HOY/21_09_2026/Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/21_09_2026/Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png
+ create mode 100644 PRESENTAR_HOY/21_09_2026/Matematicas_Week3_September_09_21_2026_Cuadro-comparativo-de-las-funciones-polinomiales_Cesar_Abarca_Rodriguez.pdf
+ create mode 100644 PRESENTAR_HOY/21_09_2026/PRESENTAR_HOY.md
+ rename {Quimica/September/Tareas => PRESENTAR_HOY/21_09_2026}/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg (100%)
+ create mode 100644 PRESENTAR_HOY/21_09_2026/Quimica_Week3_September_09_21_2026_Representaciones-Lewis-Elementos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf
+ rename Quimica/{September => Septiembre}/Tareas/.metadata/Quimica_Week1_September_09_08_2026_0386d079-df9d-44b3-b927-058b6cad9e00_Cesar_Abarca_Rodriguez.jpg.metadata.json (100%)
+ rename Quimica/{September => Septiembre}/Tareas/.metadata/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg.metadata.json (100%)
+ create mode 100644 Quimica/Septiembre/Tareas/Calificado/Individual/.metadata/Quimica_Week3_September_09_21_2026_Representaciones-Lewis-Elementos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf.metadata.json
+ create mode 100644 Quimica/Septiembre/Tareas/Calificado/Individual/Quimica_Week3_September_09_21_2026_Representaciones-Lewis-Elementos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf
+ create mode 100644 Quimica/Septiembre/Tareas/Calificado/Individual/REGISTRO_CARPETA.md
+ create mode 100644 Quimica/Septiembre/Tareas/Calificado/Individual/Representaciones Lewis Elementos Periodos 3 al 6.md
+ create mode 100644 Quimica/Septiembre/Tareas/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg
+ rename Quimica/{September => Septiembre}/Tareas/REGISTRO_CARPETA.md (95%)
+
+
+$ git push
+To https://github.com/MRodzDirect/C.A.R_2-BGU
+   7e6740b..0855224  main -> main
+```
+
+#### 📊 Resumen de Diferencias (Diff de Archivos)
+```shell
+$ git diff --name-status HEAD~1 HEAD
+M	.audit/eliminaciones.md
+M	.audit/git_audit.md
+M	.audit/movimientos.md
+M	.audit/timeline.md
+M	.sfms_data/sfms_postgres_ledger.db
+M	Biologia/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+M	Ciudadania/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+M	Cultura Fisica/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+M	Emprendimiento y Gestion/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+M	Filosofia/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+M	Historia/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+M	Ingles/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+M	Lenguaje/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+A	Matematicas/Septiembre/Tareas/Calificado/Individual/.metadata/Matematicas_Week3_September_09_21_2026_Cuadro-comparativo-de-las-funciones-polinomiales_Cesar_Abarca_Rodriguez.pdf.metadata.json
+A	Matematicas/Septiembre/Tareas/Calificado/Individual/Cuadro comparativo de las funciones polinomiales.md
+A	Matematicas/Septiembre/Tareas/Calificado/Individual/Matematicas_Week3_September_09_21_2026_Cuadro-comparativo-de-las-funciones-polinomiales_Cesar_Abarca_Rodriguez.pdf
+A	Matematicas/Septiembre/Tareas/Calificado/Individual/REGISTRO_CARPETA.md
+M	Matematicas/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md
+A	PRESENTAR_HOY/09_09_2026/.metadata/Biologia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Biologia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Ciudadania_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Cultura-Fisica_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Filosofia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Historia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Ingles_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Lenguaje_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/09_09_2026/.metadata/Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png.metadata.json
+A	PRESENTAR_HOY/21_09_2026/.metadata/Matematicas_Week3_September_09_21_2026_Cuadro-comparativo-de-las-funciones-polinomiales_Cesar_Abarca_Rodriguez.pdf.metadata.json
+A	PRESENTAR_HOY/21_09_2026/.metadata/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg.metadata.json
+A	PRESENTAR_HOY/21_09_2026/.metadata/Quimica_Week3_September_09_21_2026_Representaciones-Lewis-Elementos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf.metadata.json
+A	PRESENTAR_HOY/21_09_2026/Biologia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf
+A	PRESENTAR_HOY/21_09_2026/Biologia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/21_09_2026/Ciudadania_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf
+A	PRESENTAR_HOY/21_09_2026/Cultura-Fisica_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf
+A	PRESENTAR_HOY/21_09_2026/Emprendimiento-y-Gestion_Week1_September_09_08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf
+A	PRESENTAR_HOY/21_09_2026/Filosofia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf
+A	PRESENTAR_HOY/21_09_2026/Historia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf
+A	PRESENTAR_HOY/21_09_2026/Ingles_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf
+A	PRESENTAR_HOY/21_09_2026/Lenguaje_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf
+A	PRESENTAR_HOY/21_09_2026/Matematicas_Week1_September_09_08_2026_Cuaderno_Cesar_Abarca_Rodriguez.docx
+A	PRESENTAR_HOY/21_09_2026/Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/21_09_2026/Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png
+A	PRESENTAR_HOY/21_09_2026/Matematicas_Week3_September_09_21_2026_Cuadro-comparativo-de-las-funciones-polinomiales_Cesar_Abarca_Rodriguez.pdf
+A	PRESENTAR_HOY/21_09_2026/PRESENTAR_HOY.md
+R100	Quimica/September/Tareas/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg	PRESENTAR_HOY/21_09_2026/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg
+A	PRESENTAR_HOY/21_09_2026/Quimica_Week3_September_09_21_2026_Representaciones-Lewis-Elementos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf
+R100	Quimica/September/Tareas/.metadata/Quimica_Week1_September_09_08_2026_0386d079-df9d-44b3-b927-058b6cad9e00_Cesar_Abarca_Rodriguez.jpg.metadata.json	Quimica/Septiembre/Tareas/.metadata/Quimica_Week1_September_09_08_2026_0386d079-df9d-44b3-b927-058b6cad9e00_Cesar_Abarca_Rodriguez.jpg.metadata.json
+R100	Quimica/September/Tareas/.metadata/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg.metadata.json	Quimica/Septiembre/Tareas/.metadata/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg.metadata.json
+A	Quimica/Septiembre/Tareas/Calificado/Individual/.metadata/Quimica_Week3_September_09_21_2026_Representaciones-Lewis-Elementos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf.metadata.json
+A	Quimica/Septiembre/Tareas/Calificado/Individual/Quimica_Week3_September_09_21_2026_Representaciones-Lewis-Elementos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf
+A	Quimica/Septiembre/Tareas/Calificado/Individual/REGISTRO_CARPETA.md
+A	Quimica/Septiembre/Tareas/Calificado/Individual/Representaciones Lewis Elementos Periodos 3 al 6.md
+A	Quimica/Septiembre/Tareas/Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg
+R095	Quimica/September/Tareas/REGISTRO_CARPETA.md	Quimica/Septiembre/Tareas/REGISTRO_CARPETA.md
+M	RESUMEN_ARCHIVOS_2BGU-leer-facil.md
+M	RESUMEN_ARCHIVOS_2BGU.md
+
+$ git diff --stat HEAD~1 HEAD
+.audit/eliminaciones.md                            |   5 +
+ .audit/git_audit.md                                | 139 ++++++++++++++
+ .audit/movimientos.md                              |   2 +
+ .audit/timeline.md                                 |  10 +
+ .sfms_data/sfms_postgres_ledger.db                 | Bin 57344 -> 61440 bytes
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |   2 +-
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |   2 +-
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |   2 +-
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |   2 +-
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |   2 +-
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |   2 +-
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |   2 +-
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |   2 +-
+ ...miales_Cesar_Abarca_Rodriguez.pdf.metadata.json |  57 ++++++
+ ...ro comparativo de las funciones polinomiales.md |  21 +++
+ ...nciones-polinomiales_Cesar_Abarca_Rodriguez.pdf | Bin 0 -> 75076 bytes
+ .../Calificado/Individual/REGISTRO_CARPETA.md      |  35 ++++
+ .../Tareas/Diagnosticas/REGISTRO_CARPETA.md        |   2 +-
+ ...7_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json |  48 +++++
+ ...7_2026_Cesar_Abarca_Rodriguez.png.metadata.json |  48 +++++
+ ...7_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json |  48 +++++
+ ...7_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json |  48 +++++
+ ...ostica_Cesar_Abarca_Rodriguez.pdf.metadata.json |  48 +++++
+ ...7_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json |  48 +++++
+ ...7_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json |  48 +++++
+ ...7_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json |  48 +++++
+ ...7_2026_Cesar_Abarca_Rodriguez.pdf.metadata.json |  48 +++++
+ ...mate-1_Cesar_Abarca_Rodriguez.png.metadata.json |  48 +++++
+ ...mate-2_Cesar_Abarca_Rodriguez.png.metadata.json |  48 +++++
+ ...miales_Cesar_Abarca_Rodriguez.pdf.metadata.json |  48 +++++
+ ...ncillo_Cesar_Abarca_Rodriguez.jpg.metadata.json |  48 +++++
+ ...3-al-6_Cesar_Abarca_Rodriguez.pdf.metadata.json |  48 +++++
+ ...September_09_07_2026_Cesar_Abarca_Rodriguez.pdf | Bin 0 -> 122449 bytes
+ ...September_09_07_2026_Cesar_Abarca_Rodriguez.png | Bin 0 -> 122872 bytes
+ ...September_09_07_2026_Cesar_Abarca_Rodriguez.pdf | Bin 0 -> 395278 bytes
+ ...September_09_07_2026_Cesar_Abarca_Rodriguez.pdf | Bin 0 -> 874129 bytes
+ ..._08_2026_diagnostica_Cesar_Abarca_Rodriguez.pdf | Bin 0 -> 64936 bytes
+ ...September_09_07_2026_Cesar_Abarca_Rodriguez.pdf | Bin 0 -> 445947 bytes
+ ...September_09_07_2026_Cesar_Abarca_Rodriguez.pdf | Bin 0 -> 168921 bytes
+ ...September_09_07_2026_Cesar_Abarca_Rodriguez.pdf | Bin 0 -> 810305 bytes
+ ...September_09_07_2026_Cesar_Abarca_Rodriguez.pdf | Bin 0 -> 869886 bytes
+ ...09_08_2026_Cuaderno_Cesar_Abarca_Rodriguez.docx | Bin 0 -> 795718 bytes
+ ...er_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png | Bin 0 -> 203684 bytes
+ ...er_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png | Bin 0 -> 476183 bytes
+ ...nciones-polinomiales_Cesar_Abarca_Rodriguez.pdf | Bin 0 -> 75076 bytes
+ PRESENTAR_HOY/21_09_2026/PRESENTAR_HOY.md          |  24 +++
+ ..._09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg | Bin
+ ...ntos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf | Bin 0 -> 98420 bytes
+ ...ad9e00_Cesar_Abarca_Rodriguez.jpg.metadata.json |   0
+ ...ncillo_Cesar_Abarca_Rodriguez.jpg.metadata.json |   0
+ ...3-al-6_Cesar_Abarca_Rodriguez.pdf.metadata.json |  57 ++++++
+ ...ntos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf | Bin 0 -> 98420 bytes
+ .../Calificado/Individual/REGISTRO_CARPETA.md      |  35 ++++
+ ...esentaciones Lewis Elementos Periodos 3 al 6.md | 209 +++++++++++++++++++++
+ ..._09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg | Bin 0 -> 103732 bytes
+ .../Tareas/REGISTRO_CARPETA.md                     |   2 +-
+ RESUMEN_ARCHIVOS_2BGU-leer-facil.md                | 141 +++++++-------
+ RESUMEN_ARCHIVOS_2BGU.md                           |  29 ++-
+ 58 files changed, 1376 insertions(+), 80 deletions(-)
+```
+
+---
