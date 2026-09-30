@@ -1,8 +1,8 @@
 # 📚 Master Ledger: Registro General de Archivos - 2-BGU
 
 > **Estudiante:** César Abarca Rodríguez  
-> **Última Actualización:** `2026-09-27 17:24:10`  
-> **Total de Archivos Activos en el Sistema:** `52`  
+> **Última Actualización:** `2026-09-29 21:19:59`  
+> **Total de Archivos Activos en el Sistema:** `55`  
 > **Modo Fácil:** [Ver Resumen Simplificado de Hoy](RESUMEN_ARCHIVOS_2BGU-leer-facil.md)  
 
 Este documento refleja el **estado real y vigente** del sistema. Si un archivo es eliminado o movido, este registro se actualiza automáticamente.
@@ -43,6 +43,12 @@ Este documento refleja el **estado real y vigente** del sistema. Si un archivo e
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | `Filosofia_Week1_September_09_07_2026_Cesar_Abarca_Rodriguez.pdf` | [Filosofia/Septiembre/Tareas/Diagnosticas](Filosofia/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md) | 2026-09-07 22:02:44 | 2026-09-07 22:02:19 | `Original` | 422.5 KB | `c13e273934...` |
 
+### 📌 Fisica (1 archivo)
+
+| Archivo Organizado | Carpeta Relativa | Creación | Última Modificación | Versión | Tamaño | SHA-256 |
+| :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| `Historia_Week4_September_09_29_2026_29-de-Vida-en-otro-planeta-v2-resumen_Cesar_Abarca_Rodriguez.txt` | [Fisica/Septiembre/Tareas/Calificado/Individual](Fisica/Septiembre/Tareas/Calificado/Individual/REGISTRO_CARPETA.md) | 2026-09-29 20:51:17 | 2026-09-29 20:51:17 | `Original` | 6.3 KB | `8fc25f05ab...` |
+
 ### 📌 Historia (2 archivos)
 
 | Archivo Organizado | Carpeta Relativa | Creación | Última Modificación | Versión | Tamaño | SHA-256 |
@@ -74,10 +80,12 @@ Este documento refleja el **estado real y vigente** del sistema. Si un archivo e
 | `Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png` | [Matematicas/Septiembre/Tareas/Diagnosticas](Matematicas/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md) | 2026-09-08 15:48:02 | 2026-09-08 15:48:03 | `Original` | 198.9 KB | `0c6f404815...` |
 | `Matematicas_Week1_September_09_08_2026_mate-2_Cesar_Abarca_Rodriguez.png` | [Matematicas/Septiembre/Tareas/Diagnosticas](Matematicas/Septiembre/Tareas/Diagnosticas/REGISTRO_CARPETA.md) | 2026-09-08 15:48:18 | 2026-09-08 15:48:19 | `Original` | 465.0 KB | `e16eccb75d...` |
 
-### 📌 PRESENTAR_HOY (32 archivos)
+### 📌 PRESENTAR_HOY (34 archivos)
 
 | Archivo Organizado | Carpeta Relativa | Creación | Última Modificación | Versión | Tamaño | SHA-256 |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
+| `Quimica_Week1_September_09_08_2026_sencillo_Cesar_Abarca_Rodriguez.jpg` | [PRESENTAR_HOY/29_09_2026](PRESENTAR_HOY/29_09_2026/REGISTRO_CARPETA.md) | 2026-09-29 20:19:30 | 2026-09-08 15:22:03 | `Original` | 101.3 KB | `e90f67a9b7...` |
+| `Quimica_Week3_September_09_21_2026_Representaciones-Lewis-Elementos-Periodos-3-al-6_Cesar_Abarca_Rodriguez.pdf` | [PRESENTAR_HOY/29_09_2026](PRESENTAR_HOY/29_09_2026/REGISTRO_CARPETA.md) | 2026-09-29 20:19:30 | 2026-09-21 15:02:07 | `Original` | 96.1 KB | `9578a1225b...` |
 | `Matematicas_Week3_September_09_21_2026_Cuadro-comparativo-de-las-funciones-polinomiales_Cesar_Abarca_Rodriguez.pdf` | [PRESENTAR_HOY/25_09_2026](PRESENTAR_HOY/25_09_2026/REGISTRO_CARPETA.md) | 2026-09-27 16:53:22 | 2026-09-21 14:54:33 | `Original` | 73.3 KB | `f98e32bb77...` |
 | `Matematicas_Week1_September_09_08_2026_Cuaderno_Cesar_Abarca_Rodriguez.docx` | [PRESENTAR_HOY/25_09_2026](PRESENTAR_HOY/25_09_2026/REGISTRO_CARPETA.md) | 2026-09-27 16:53:21 | 2026-09-09 11:16:44 | `Original` | 777.1 KB | `0263320a5a...` |
 | `Matematicas_Week1_September_09_08_2026_mate-1_Cesar_Abarca_Rodriguez.png` | [PRESENTAR_HOY/25_09_2026](PRESENTAR_HOY/25_09_2026/REGISTRO_CARPETA.md) | 2026-09-27 16:53:21 | 2026-09-08 15:48:03 | `Original` | 198.9 KB | `0c6f404815...` |

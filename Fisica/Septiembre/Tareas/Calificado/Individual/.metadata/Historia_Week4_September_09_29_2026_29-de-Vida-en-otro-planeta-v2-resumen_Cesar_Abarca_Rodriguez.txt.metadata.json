@@ -1,0 +1,57 @@
+{
+  "classification": {
+    "context": {
+      "breadcrumb": "Fisica > Septiembre > Tareas > Calificado > Individual",
+      "category": "Tareas",
+      "hierarchy": [
+        "Fisica",
+        "Septiembre",
+        "Tareas",
+        "Calificado",
+        "Individual"
+      ],
+      "modality": "Individual",
+      "month": "Septiembre",
+      "relative_dir": "Fisica/Septiembre/Tareas/Calificado/Individual",
+      "subcategory": "Calificado",
+      "subject": "Fisica",
+      "suffix": "Cesar_Abarca_Rodriguez",
+      "tags": [
+        "Fisica",
+        "Week4",
+        "September",
+        "Septiembre",
+        "Tareas",
+        "Calificado",
+        "Individual"
+      ],
+      "zone_name": "Bachillerato - 2-BGU"
+    },
+    "system_os": "Windows 11",
+    "tags": [
+      "Fisica",
+      "Week4",
+      "September",
+      "Septiembre",
+      "Tareas",
+      "Calificado",
+      "Individual"
+    ],
+    "version_tag": "Individual"
+  },
+  "file": {
+    "absolute_path": "C:\\Users\\MRodz\\Documents\\College\\2-BGU\\Fisica\\Septiembre\\Tareas\\Calificado\\Individual\\Historia_Week4_September_09_29_2026_29-de-Vida-en-otro-planeta-v2-resumen_Cesar_Abarca_Rodriguez.txt",
+    "final_filename": "Historia_Week4_September_09_29_2026_29-de-Vida-en-otro-planeta-v2-resumen_Cesar_Abarca_Rodriguez.txt",
+    "original_filename": "29 Septiembre Historia de Vida en otro planeta Fisica -v2 resumen.txt",
+    "relative_dir": "Fisica/Septiembre/Tareas/Calificado/Individual",
+    "relative_path": "Fisica/Septiembre/Tareas/Calificado/Individual/Historia_Week4_September_09_29_2026_29-de-Vida-en-otro-planeta-v2-resumen_Cesar_Abarca_Rodriguez.txt",
+    "sha256": "8fc25f05ab330ea784a38939108f5e15d7b5de3d253ea011d754c01c82120889",
+    "size_bytes": 6494
+  },
+  "schema_version": "1.2",
+  "timestamps": {
+    "file_creation": "2026-09-29 20:51:17",
+    "file_modified": "2026-09-29 20:51:17",
+    "ingested_at": "2026-09-29 21:19:59"
+  }
+}
